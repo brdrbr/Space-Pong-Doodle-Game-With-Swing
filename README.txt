@@ -1,3 +1,4 @@
+The Instructions File is Listed in the Instructions section.
 Classes and functions:
 Main Class:
 -I created a new instance of the ballgame in order to initialize the program and then I called the init function of the ball game. The init function and what it does wil
